@@ -1,0 +1,22 @@
+{
+  "name": "401hackathon",
+  "version": "1.0.0",
+  "description": "## How to set up install pipenv via pip3 call `pipenv shell` to go into the shell. This is a local area in which our packages are used, similarly to npm. call `pipenv install` to install all of the needed libraries",
+  "main": "csvLoad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlccc/401Hackathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrlccc/401Hackathon/issues"
+  },
+  "homepage": "https://github.com/mrlccc/401Hackathon#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
